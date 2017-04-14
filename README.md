@@ -1,6 +1,6 @@
 # aws-reserved-instances
 
-An attempt to get gather a report for AWS reserved instances based on the new Instance Size Flexibility for EC2 instances. https://aws.amazon.com/blogs/aws/new-instance-size-flexibility-for-ec2-reserved-instances/
+An attempt to create a report for AWS reserved instances based on the new Instance Size Flexibility for EC2 instances. https://aws.amazon.com/blogs/aws/new-instance-size-flexibility-for-ec2-reserved-instances/
 
 This script attempts to assign a value to each instance type and calculate how many can fit into your reserved instances. 
 
